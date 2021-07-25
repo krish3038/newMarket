@@ -1,0 +1,6 @@
+framework module Pods_NewMarketServicesUITests {
+  umbrella header "Pods-NewMarketServicesUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

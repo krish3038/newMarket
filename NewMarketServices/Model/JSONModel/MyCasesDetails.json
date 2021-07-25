@@ -1,0 +1,231 @@
+{
+    "jsonObj" :[
+                {
+                "InsuredCompanyName":"Collision Center",
+                "ClaimNo":"234BA72222",
+                "PolicyNo":"UMR A5675PR0020177",
+                "ClaimCreateDate":"21 Mar 2011",
+                "ClaimUrgency":"02 d 07:08 h",
+                "ClaimTargetDate":"01 Apr 2011",
+                "ClaimMode":"Planning",
+                "eachCases": [
+                              {
+                              "insured":"Conflict of Interest",
+                              "claimNo":"234BA72222",
+                              "policyNo":"UMR A5675PR0020177",
+                              "creationDate":"22 Mar 2011",
+                              "urgency":"02 d 07:08 h",
+                              "target":"24 Mar 2018",
+                              "status":"Completed"
+                              },
+                              {
+                              "insured":"Claim Evaluation",
+                              "claimNo":"234BA72222",
+                              "policyNo":"UMR A5675PR0020177",
+                              "creationDate":"22 Mar 2011",
+                              "urgency":"04 d 03:00 h",
+                              "target":"26 Mar 2018",
+                              "status":"Completed"
+                              },
+                              {
+                              "insured":"Claim Settlement",
+                              "claimNo":"234BA72222",
+                              "policyNo":"UMR A5675PR0020177",
+                              "creationDate":"29 Mar 2011",
+                              "urgency":"02 d 12:08 h",
+                              "target":"30 Mar 2018",
+                              "status":"Completed"
+                              },
+                              {
+                              "insured":"Premium Check",
+                              "claimNo":"234BA72222",
+                              "policyNo":"UMR A5675PR0020177",
+                              "creationDate":"30 Mar 2011",
+                              "urgency":"12 d 03:08 h",
+                              "target":"30 Mar 2018",
+                              "status":"Housekeeping"
+                              },
+                              {
+                              "insured":"Housekeeping Check",
+                              "claimNo":"234BA72222",
+                              "policyNo":"UMR A5675PR0020177",
+                              "creationDate":"31 Mar 2011",
+                              "urgency":"11 d 03:08 h",
+                              "target":"31 Mar 2018",
+                              "status":"Housekeeping"
+                              }
+                              ]
+                },
+                {
+                "InsuredCompanyName":"Sotheren Medical Centre",
+                "ClaimNo":"234BA72222",
+                "PolicyNo":"UMR A5675PR0020177",
+                "ClaimCreateDate":"21 Mar 2011",
+                "ClaimUrgency":"02 d 07:08 h",
+                "ClaimTargetDate":"01 Apr 2011",
+                "ClaimMode":"Planning",
+                "eachCases": [
+                              {
+                              "insured":"Conflict of Interest",
+                              "claimNo":"234BA72222",
+                              "policyNo":"UMR A5675PR0020177",
+                              "creationDate":"22 Mar 2011",
+                              "urgency":"02 d 07:08 h",
+                              "target":"24 Mar 2018",
+                              "status":"Completed"
+                              },
+                              {
+                              "insured":"Claim Evaluation",
+                              "claimNo":"234BA72222",
+                              "policyNo":"UMR A5675PR0020177",
+                              "creationDate":"22 Mar 2011",
+                              "urgency":"04 d 03:00 h",
+                              "target":"26 Mar 2018",
+                              "status":"Completed"
+                              },
+                              {
+                              "insured":"Claim Settlement",
+                              "claimNo":"234BA72222",
+                              "policyNo":"UMR A5675PR0020177",
+                              "creationDate":"29 Mar 2011",
+                              "urgency":"02 d 12:08 h",
+                              "target":"30 Mar 2018",
+                              "status":"Completed"
+                              },
+                              {
+                              "insured":"Premium Check",
+                              "claimNo":"234BA72222",
+                              "policyNo":"UMR A5675PR0020177",
+                              "creationDate":"30 Mar 2011",
+                              "urgency":"12 d 03:08 h",
+                              "target":"30 Mar 2018",
+                              "status":"Housekeeping"
+                              },
+                              {
+                              "insured":"Housekeeping Check",
+                              "claimNo":"234BA72222",
+                              "policyNo":"UMR A5675PR0020177",
+                              "creationDate":"31 Mar 2011",
+                              "urgency":"11 d 03:08 h",
+                              "target":"31 Mar 2018",
+                              "status":"Housekeeping"
+                              }
+                              ]
+                
+                },
+                {
+                "InsuredCompanyName":"Maddisson organization",
+                "ClaimNo":"234BA72222",
+                "PolicyNo":"UMR A5675PR0020177",
+                "ClaimCreateDate":"21 Mar 2011",
+                "ClaimUrgency":"02 d 07:08 h",
+                "ClaimTargetDate":"01 Apr 2011",
+                "ClaimMode":"Planning",
+                "eachCases": [
+                              {
+                              "insured":"Conflict of Interest",
+                              "claimNo":"234BA72222",
+                              "policyNo":"UMR A5675PR0020177",
+                              "creationDate":"22 Mar 2011",
+                              "urgency":"02 d 07:08 h",
+                              "target":"24 Mar 2018",
+                              "status":"Completed"
+                              },
+                              {
+                              "insured":"Claim Evaluation",
+                              "claimNo":"234BA72222",
+                              "policyNo":"UMR A5675PR0020177",
+                              "creationDate":"22 Mar 2011",
+                              "urgency":"04 d 03:00 h",
+                              "target":"26 Mar 2018",
+                              "status":"Completed"
+                              },
+                              {
+                              "insured":"Claim Settlement",
+                              "claimNo":"234BA72222",
+                              "policyNo":"UMR A5675PR0020177",
+                              "creationDate":"29 Mar 2011",
+                              "urgency":"02 d 12:08 h",
+                              "target":"30 Mar 2018",
+                              "status":"Completed"
+                              },
+                              {
+                              "insured":"Premium Check",
+                              "claimNo":"234BA72222",
+                              "policyNo":"UMR A5675PR0020177",
+                              "creationDate":"30 Mar 2011",
+                              "urgency":"12 d 03:08 h",
+                              "target":"30 Mar 2018",
+                              "status":"Housekeeping"
+                              },
+                              {
+                              "insured":"Housekeeping Check",
+                              "claimNo":"234BA72222",
+                              "policyNo":"UMR A5675PR0020177",
+                              "creationDate":"31 Mar 2011",
+                              "urgency":"11 d 03:08 h",
+                              "target":"31 Mar 2018",
+                              "status":"Housekeeping"
+                              }
+                              ]
+                
+                },
+                {
+                "InsuredCompanyName":"The Northen Medical Centre",
+                "ClaimNo":"234BA72222",
+                "PolicyNo":"UMR A5675PR0020177",
+                "ClaimCreateDate":"21 Mar 2011",
+                "ClaimUrgency":"02 d 07:08 h",
+                "ClaimTargetDate":"01 Apr 2011",
+                "ClaimMode":"Planning",
+                "eachCases": [
+                              {
+                              "insured":"Conflict of Interest",
+                              "claimNo":"234BA72222",
+                              "policyNo":"UMR A5675PR0020177",
+                              "creationDate":"22 Mar 2011",
+                              "urgency":"02 d 07:08 h",
+                              "target":"24 Mar 2018",
+                              "status":"Completed"
+                              },
+                              {
+                              "insured":"Claim Evaluation",
+                              "claimNo":"234BA72222",
+                              "policyNo":"UMR A5675PR0020177",
+                              "creationDate":"22 Mar 2011",
+                              "urgency":"04 d 03:00 h",
+                              "target":"26 Mar 2018",
+                              "status":"Completed"
+                              },
+                              {
+                              "insured":"Claim Settlement",
+                              "claimNo":"234BA72222",
+                              "policyNo":"UMR A5675PR0020177",
+                              "creationDate":"29 Mar 2011",
+                              "urgency":"02 d 12:08 h",
+                              "target":"30 Mar 2018",
+                              "status":"Completed"
+                              },
+                              {
+                              "insured":"Premium Check",
+                              "claimNo":"234BA72222",
+                              "policyNo":"UMR A5675PR0020177",
+                              "creationDate":"30 Mar 2011",
+                              "urgency":"12 d 03:08 h",
+                              "target":"30 Mar 2018",
+                              "status":"Housekeeping"
+                              },
+                              {
+                              "insured":"Housekeeping Check",
+                              "claimNo":"234BA72222",
+                              "policyNo":"UMR A5675PR0020177",
+                              "creationDate":"31 Mar 2011",
+                              "urgency":"11 d 03:08 h",
+                              "target":"31 Mar 2018",
+                              "status":"Housekeeping"
+                              }
+                              ]
+                
+                }
+                ]
+}

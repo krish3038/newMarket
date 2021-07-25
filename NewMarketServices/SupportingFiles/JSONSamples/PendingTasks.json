@@ -1,0 +1,13 @@
+{
+  "jsonObj": [{
+    "ClaimNo": "341XZ76502",
+    "PolicyNo": "CCR Y0001PR0027869",
+    "InsuredCompanyName": "James Bowling Estates",
+    "PolicyType": "Commercial Prop.",
+    "PolicyEffectiveDate": "2018-06-19T06:47:00.105Z",
+    "PolicyExpiryDate": "2018-08-08T06:47:00.105Z",
+    "ClaimPremiumStatus": "Paid",
+    "PolicyStatus": "Active",
+    "ClaimActionRequired": "yes"
+  }]
+}

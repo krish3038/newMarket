@@ -1,0 +1,40 @@
+{
+  "jsonObj": [
+    {
+      "ClaimNo": "678XZ76502",
+      "PolicyNo": "CCR K0001FR0020184",
+      "PartyName": "Southern Medical Centre",
+      "PartyType": "Commercial Prop.",
+      "Details": "Please send KYC.",
+      "InfoReceivedDate": "2018-12-30T06:47:00.105Z",
+      "InfoReceived": "Received"
+    },
+    {
+      "ClaimNo": "678XZ76502",
+      "PolicyNo": "CCR K0001FR0020184",
+      "PartyName": "Southern Medical Centre",
+      "PartyType": "Commercial Prop.",
+      "Details": "Please send KYC.",
+      "InfoReceivedDate": "2018-12-30T06:47:00.105Z",
+      "InfoReceived": "Received"
+    },
+    {
+      "ClaimNo": "678XZ76502",
+      "PolicyNo": "CCR K0001FR0020184",
+      "PartyName": "Southern Medical Centre",
+      "PartyType": "Commercial Prop.",
+      "Details": "Please send KYC.",
+      "InfoReceivedDate": "2018-12-30T06:47:00.105Z",
+      "InfoReceived": "Received"
+    },
+    {
+      "ClaimNo": "678XZ76502",
+      "PolicyNo": "CCR K0001FR0020184",
+      "PartyName": "Southern Medical Centre",
+      "PartyType": "Commercial Prop.",
+      "Details": "Please send KYC.",
+      "InfoReceivedDate": "2018-12-30T06:47:00.105Z",
+      "InfoReceived": "Received"
+    }
+  ]
+}

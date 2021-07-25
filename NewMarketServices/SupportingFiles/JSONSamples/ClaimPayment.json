@@ -1,0 +1,20 @@
+{
+  "jsonObj": [
+    {
+      "ClaimNo": "678XZ76502",
+      "PolicyNo": "CCR K0001FR0020184",
+      "PartyName": "James Lawel",
+      "PartyType": "Policyholder",
+      "SettlementAmount": "£ 15,000.00",
+      "ConfirmationStatus": "Agreed"
+    },
+    {
+      "ClaimNo": "678XZ76502",
+      "PolicyNo": "CCR K0001FR0020184",
+      "PartyName": "Paul Marvel",
+      "PartyType": "Placing Broker",
+      "SettlementAmount": "£ 15,000.00",
+      "ConfirmationStatus": "Disagreed"
+    }
+  ]
+}
